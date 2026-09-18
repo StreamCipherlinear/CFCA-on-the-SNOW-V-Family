@@ -1,0 +1,18 @@
+# build artefacts
+*.exe
+*.o
+*.obj
+*.out
+gmon.out
+
+# editor / IDE
+.idea/
+.vscode/
+*.tmp
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
